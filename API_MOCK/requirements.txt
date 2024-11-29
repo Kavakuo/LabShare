@@ -33,6 +33,6 @@ scipy==1.4.1
 six==1.13.0
 soupsieve==2.0
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
 wrapt==1.11.2
