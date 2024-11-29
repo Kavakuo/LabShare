@@ -20,7 +20,7 @@ networkx==2.4
 numpy==1.18.1
 protobuf==3.11.2
 pycairo==1.19.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyGObject==3.34.0
 pygraphviz==1.5
 pylint==2.4.4
