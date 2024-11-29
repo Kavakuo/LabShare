@@ -27,7 +27,7 @@
     "jsonschema": "^1.2.6",
     "jsonwebtoken": "^8.5.1",
     "leaflet": "^1.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.9.16",
     "nodemailer": "^6.4.8",
     "popper.js": "^1.16.1",
